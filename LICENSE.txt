@@ -1,0 +1,4 @@
+CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+
+El autor ha dedicado este trabajo al dominio público de acuerdo con los términos de la ley de derechos de autor y otras leyes de propiedad intelectual. Se permite a cualquier persona copiar, modificar, distribuir y realizar obras derivadas de este trabajo, incluso para fines comerciales, sin pedir permiso.
+Se proporciona este trabajo "tal cual", sin garantía de ningún tipo, ya sea expresa o implícita, incluyendo, pero no limitado a, las garantías de comerciabilidad, idoneidad para un propósito particular, o no infracción. Para más información, consulte: https://creativecommons.org/publicdomain/zero/1.0/
