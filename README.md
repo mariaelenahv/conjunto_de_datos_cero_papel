@@ -15,3 +15,7 @@ El proceso incluyó el uso de **Python 3**, donde se aplicaron filtros de palabr
 ## Documentación
 
 Para obtener más información, le invitamos a consultar la documentación correspondiente en el siguiente documento: Documento Reuso Gasto de Papel.pdf
+
+## Licencia
+
+Este proyecto está bajo la Licencia 0 (CC0). Para más información, consulte el archivo LICENSE.
