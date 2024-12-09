@@ -1,0 +1,2348 @@
+{
+    "2024": {
+        "Enero": {
+            "Top 10 Municipalidades Ascendente": [
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE NACIMIENTO",
+                    "Gasto": 174359,
+                    "Latitud": -37.5021632,
+                    "Longitud": -72.67436659653994
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE PALMILLA",
+                    "Gasto": 569058,
+                    "Latitud": -34.59772815,
+                    "Longitud": -71.36362340411176
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE MAFIL",
+                    "Gasto": 614040,
+                    "Latitud": -39.6646519,
+                    "Longitud": -72.95367349426073
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE QUINCHAO",
+                    "Gasto": 694960,
+                    "Latitud": -42.4711142,
+                    "Longitud": -73.4885537
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE SAN IGNACIO",
+                    "Gasto": 825265,
+                    "Latitud": -36.799099,
+                    "Longitud": -72.0295793
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LLANQUIHUE",
+                    "Gasto": 826812,
+                    "Latitud": -41.2565319,
+                    "Longitud": -73.0056137
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE PUERTO VARAS",
+                    "Gasto": 1013832,
+                    "Latitud": -41.3173803,
+                    "Longitud": -72.9845667
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE TIRUA",
+                    "Gasto": 1287937,
+                    "Latitud": -38.3442095,
+                    "Longitud": -73.4934201
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE SAN VICENTE",
+                    "Gasto": 1476374,
+                    "Latitud": -34.4392721,
+                    "Longitud": -71.07616568514135
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LOS ANGELES",
+                    "Gasto": 1511300,
+                    "Latitud": -37.47112635,
+                    "Longitud": -72.35064063866517
+                }
+            ],
+            "Top 10 Municipalidades Descendente": [
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CALAMA",
+                    "Gasto": 16398200,
+                    "Latitud": -22.4634382,
+                    "Longitud": -68.92573347389403
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CURICO",
+                    "Gasto": 7861378,
+                    "Latitud": -34.98554105,
+                    "Longitud": -71.23854218545901
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CANETE",
+                    "Gasto": 7718676,
+                    "Latitud": -37.79972,
+                    "Longitud": -73.3991188
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE SAN PEDRO DE LA PAZ",
+                    "Gasto": 5562893,
+                    "Latitud": -36.84142335,
+                    "Longitud": -73.10317815295062
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE VICUNA",
+                    "Gasto": 4984315,
+                    "Latitud": -30.0335973,
+                    "Longitud": -70.7135638
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE COBQUECURA",
+                    "Gasto": 3382158,
+                    "Latitud": -36.1316875,
+                    "Longitud": -72.7925312
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE PENCO",
+                    "Gasto": 2724624,
+                    "Latitud": -36.739382250000006,
+                    "Longitud": -72.99285203159288
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE SAAVEDRA",
+                    "Gasto": 2003960,
+                    "Latitud": -38.7923313,
+                    "Longitud": -73.3959172783686
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE VILLARRICA",
+                    "Gasto": 1970283,
+                    "Latitud": -39.2834528,
+                    "Longitud": -72.22640737221154
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CALERA DE TANGO",
+                    "Gasto": 1713064,
+                    "Latitud": -33.6306199,
+                    "Longitud": -70.76159311969573
+                }
+            ],
+            "Top 10 Otros Ascendente": [
+                {
+                    "Institución Padre": "CORP MUNICIPAL DE SERVICIOS Y DESARROLLO",
+                    "Gasto": 185497,
+                    "Latitud": -33.50161924507513,
+                    "Longitud": -70.75740660858871
+                },
+                {
+                    "Institución Padre": "COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO",
+                    "Gasto": 6396131,
+                    "Latitud": -33.577219346361424,
+                    "Longitud": -70.58128245950614
+                },
+                {
+                    "Institución Padre": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
+                    "Gasto": 8301440,
+                    "Latitud": -53.15002819490814,
+                    "Longitud": -70.91143822982174
+                },
+                {
+                    "Institución Padre": "COMANDO DE APOYO A LA FUERZA",
+                    "Gasto": 9250000,
+                    "Latitud": -39.823700991817084,
+                    "Longitud": -73.23250073125092
+                }
+            ],
+            "Top 10 Otros Descendente": [
+                {
+                    "Institución Padre": "COMANDO DE APOYO A LA FUERZA",
+                    "Gasto": 9250000,
+                    "Latitud": -39.823700991817084,
+                    "Longitud": -73.23250073125092
+                },
+                {
+                    "Institución Padre": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
+                    "Gasto": 8301440,
+                    "Latitud": -53.15002819490814,
+                    "Longitud": -70.91143822982174
+                },
+                {
+                    "Institución Padre": "COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO",
+                    "Gasto": 6396131,
+                    "Latitud": -33.577219346361424,
+                    "Longitud": -70.58128245950614
+                },
+                {
+                    "Institución Padre": "CORP MUNICIPAL DE SERVICIOS Y DESARROLLO",
+                    "Gasto": 185497,
+                    "Latitud": -33.50161924507513,
+                    "Longitud": -70.75740660858871
+                }
+            ]
+        },
+        "Febrero": {
+            "Top 10 Municipalidades Ascendente": [
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE PANQUEHUE",
+                    "Gasto": 142836,
+                    "Latitud": -32.7705025,
+                    "Longitud": -70.8352998
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE SALAMANCA",
+                    "Gasto": 428698,
+                    "Latitud": -31.781005550000003,
+                    "Longitud": -70.96590110000001
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CALAMA",
+                    "Gasto": 504084,
+                    "Latitud": -22.4634382,
+                    "Longitud": -68.92573347389403
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CATEMU",
+                    "Gasto": 590240,
+                    "Latitud": -32.7787138,
+                    "Longitud": -70.9630788
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CORONEL",
+                    "Gasto": 603508,
+                    "Latitud": -37.0294737,
+                    "Longitud": -73.14622918699935
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LEBU",
+                    "Gasto": 604520,
+                    "Latitud": -37.6109586,
+                    "Longitud": -73.6561279
+                },
+                {
+                    "Institución Padre": "ILUSTRE MUNICIPALIDAD DE YERBAS BUENAS",
+                    "Gasto": 619752,
+                    "Latitud": -35.7477097,
+                    "Longitud": -71.5828535
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CURICO",
+                    "Gasto": 650930,
+                    "Latitud": -34.98554105,
+                    "Longitud": -71.23854218545901
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD VALDIVIA",
+                    "Gasto": 727935,
+                    "Latitud": -39.812843099999995,
+                    "Longitud": -73.24694851875219
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE TIERRA AMARILLA",
+                    "Gasto": 789833,
+                    "Latitud": -27.481677050000002,
+                    "Longitud": -70.26654501796801
+                }
+            ],
+            "Top 10 Municipalidades Descendente": [
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LOS ALAMOS DEPTO COMUNAL",
+                    "Gasto": 8281388,
+                    "Latitud": -37.6266115,
+                    "Longitud": -73.4609456
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE TEMUCO",
+                    "Gasto": 4976717,
+                    "Latitud": -38.7397933,
+                    "Longitud": -72.5909289
+                },
+                {
+                    "Institución Padre": "I.MUNICIPALIDAD DE CERRO NAVIA",
+                    "Gasto": 4181303,
+                    "Latitud": -33.434346950000005,
+                    "Longitud": -70.7290315444265
+                },
+                {
+                    "Institución Padre": "ILUSTRE MUNICIPALIDAD DE RANQUIL",
+                    "Gasto": 3953549,
+                    "Latitud": -36.6046813,
+                    "Longitud": -72.5343925
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE TUCAPEL",
+                    "Gasto": 3315519,
+                    "Latitud": -37.24030085,
+                    "Longitud": -71.94019864386175
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE YUMBEL",
+                    "Gasto": 2772769,
+                    "Latitud": -37.0978413,
+                    "Longitud": -72.561378
+                },
+                {
+                    "Institución Padre": "MUNICIPALIDAD DE LOS ANDES",
+                    "Gasto": 2529702,
+                    "Latitud": -38.932738549999996,
+                    "Longitud": -72.03295800911474
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE MOSTAZAL",
+                    "Gasto": 2097732,
+                    "Latitud": -33.98006625,
+                    "Longitud": -70.71155859430769
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LONGAVI",
+                    "Gasto": 1649518,
+                    "Latitud": -35.9665705,
+                    "Longitud": -71.68415912678323
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE VALLENAR",
+                    "Gasto": 1484466,
+                    "Latitud": -28.5745602,
+                    "Longitud": -70.7613728
+                }
+            ],
+            "Top 10 Otros Ascendente": [
+                {
+                    "Institución Padre": "FUERZA AEREA DE CHILE COMANDO LOGISTICO",
+                    "Gasto": 123290,
+                    "Latitud": -33.49138405,
+                    "Longitud": -70.7010048713825
+                },
+                {
+                    "Institución Padre": "DELEGACIÓN PRESIDENCIAL REGIONAL DE LOS LAGOS",
+                    "Gasto": 390558,
+                    "Latitud": -42.4820754,
+                    "Longitud": -73.76553340612708
+                },
+                {
+                    "Institución Padre": "CENTRO REFERENCIAL DE SALUD DR SALVADOR ALLENDE GOSSENS",
+                    "Gasto": 1949280,
+                    "Latitud": -33.44534655,
+                    "Longitud": -70.74119011102081
+                },
+                {
+                    "Institución Padre": "FONDO NACIONAL DE SALUD",
+                    "Gasto": 3668175,
+                    "Latitud": -34.9848391,
+                    "Longitud": -71.2385286
+                },
+                {
+                    "Institución Padre": "DIRECCION DE ABASTECIMIENTO DE LA ARMADA",
+                    "Gasto": 8200483,
+                    "Latitud": -36.70374234182247,
+                    "Longitud": -73.11290261701197
+                },
+                {
+                    "Institución Padre": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
+                    "Gasto": 9135416,
+                    "Latitud": -53.15002819490814,
+                    "Longitud": -70.91143822982174
+                },
+                {
+                    "Institución Padre": "SERVICIO DE REGISTRO CIVIL E IDENTIFICACION",
+                    "Gasto": 14998510,
+                    "Latitud": -33.438788,
+                    "Longitud": -70.66147054127686
+                },
+                {
+                    "Institución Padre": "CORP MUNICIPAL DE EDUC SALUD CULTURA Y RECREACION DE LA FLORIDA",
+                    "Gasto": 43066100,
+                    "Latitud": -33.5156067,
+                    "Longitud": -70.5885033
+                }
+            ],
+            "Top 10 Otros Descendente": [
+                {
+                    "Institución Padre": "CORP MUNICIPAL DE EDUC SALUD CULTURA Y RECREACION DE LA FLORIDA",
+                    "Gasto": 43066100,
+                    "Latitud": -33.5156067,
+                    "Longitud": -70.5885033
+                },
+                {
+                    "Institución Padre": "SERVICIO DE REGISTRO CIVIL E IDENTIFICACION",
+                    "Gasto": 14998510,
+                    "Latitud": -33.438788,
+                    "Longitud": -70.66147054127686
+                },
+                {
+                    "Institución Padre": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
+                    "Gasto": 9135416,
+                    "Latitud": -53.15002819490814,
+                    "Longitud": -70.91143822982174
+                },
+                {
+                    "Institución Padre": "DIRECCION DE ABASTECIMIENTO DE LA ARMADA",
+                    "Gasto": 8200483,
+                    "Latitud": -36.70374234182247,
+                    "Longitud": -73.11290261701197
+                },
+                {
+                    "Institución Padre": "FONDO NACIONAL DE SALUD",
+                    "Gasto": 3668175,
+                    "Latitud": -34.9848391,
+                    "Longitud": -71.2385286
+                },
+                {
+                    "Institución Padre": "CENTRO REFERENCIAL DE SALUD DR SALVADOR ALLENDE GOSSENS",
+                    "Gasto": 1949280,
+                    "Latitud": -33.44534655,
+                    "Longitud": -70.74119011102081
+                },
+                {
+                    "Institución Padre": "DELEGACIÓN PRESIDENCIAL REGIONAL DE LOS LAGOS",
+                    "Gasto": 390558,
+                    "Latitud": -42.4820754,
+                    "Longitud": -73.76553340612708
+                },
+                {
+                    "Institución Padre": "FUERZA AEREA DE CHILE COMANDO LOGISTICO",
+                    "Gasto": 123290,
+                    "Latitud": -33.49138405,
+                    "Longitud": -70.7010048713825
+                }
+            ]
+        },
+        "Marzo": {
+            "Top 10 Municipalidades Ascendente": [
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE TOME",
+                    "Gasto": 80611,
+                    "Latitud": -36.617159,
+                    "Longitud": -72.958481
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE SAN PEDRO DE LA PAZ",
+                    "Gasto": 86156,
+                    "Latitud": -36.84142335,
+                    "Longitud": -73.10317815295062
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CHILLAN",
+                    "Gasto": 153105,
+                    "Latitud": -36.60600385,
+                    "Longitud": -72.10426068496827
+                },
+                {
+                    "Institución Padre": "ILUSTRE MUNICIPALIDAD DE PICHILEMU",
+                    "Gasto": 247853,
+                    "Latitud": -34.387141099999994,
+                    "Longitud": -72.0044445
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LA LIGUA",
+                    "Gasto": 295000,
+                    "Latitud": -32.450082699999996,
+                    "Longitud": -71.2314441988971
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LA UNION",
+                    "Gasto": 305378,
+                    "Latitud": -40.2947882,
+                    "Longitud": -73.0829831009254
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE SANTA JUANA",
+                    "Gasto": 441252,
+                    "Latitud": -37.1744663,
+                    "Longitud": -72.9367769
+                },
+                {
+                    "Institución Padre": "ILUSTRE MUNICIPALIDAD DE YERBAS BUENAS",
+                    "Gasto": 615587,
+                    "Latitud": -35.7477097,
+                    "Longitud": -71.5828535
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LAGO RANCO",
+                    "Gasto": 1131690,
+                    "Latitud": -40.32062645,
+                    "Longitud": -72.48012016715423
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE ANGOL",
+                    "Gasto": 1297933,
+                    "Latitud": -37.797137000000006,
+                    "Longitud": -72.71119037694166
+                }
+            ],
+            "Top 10 Municipalidades Descendente": [
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LOS ALAMOS DEPTO COMUNAL",
+                    "Gasto": 18445774,
+                    "Latitud": -37.6266115,
+                    "Longitud": -73.4609456
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LOS ANGELES",
+                    "Gasto": 9839634,
+                    "Latitud": -37.47112635,
+                    "Longitud": -72.35064063866517
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE TEMUCO",
+                    "Gasto": 7867221,
+                    "Latitud": -38.7397933,
+                    "Longitud": -72.5909289
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE MOSTAZAL",
+                    "Gasto": 6336750,
+                    "Latitud": -33.98006625,
+                    "Longitud": -70.71155859430769
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LOS LAGOS",
+                    "Gasto": 5867474,
+                    "Latitud": -39.86322795,
+                    "Longitud": -72.81662579578243
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE OSORNO",
+                    "Gasto": 5601925,
+                    "Latitud": -40.5746591,
+                    "Longitud": -73.1358139
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE TALCA",
+                    "Gasto": 4052480,
+                    "Latitud": -35.4257615,
+                    "Longitud": -71.66543442233423
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD VALDIVIA",
+                    "Gasto": 2974822,
+                    "Latitud": -39.812843099999995,
+                    "Longitud": -73.24694851875219
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CUNCO",
+                    "Gasto": 2230429,
+                    "Latitud": -38.932738549999996,
+                    "Longitud": -72.03295800911474
+                },
+                {
+                    "Institución Padre": "ILUSTRE MUNICIPALIDAD DE QUINTA NORMAL",
+                    "Gasto": 2199049,
+                    "Latitud": -33.4220771,
+                    "Longitud": -70.6938233
+                }
+            ],
+            "Top 10 Otros Ascendente": [
+                {
+                    "Institución Padre": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
+                    "Gasto": 200812,
+                    "Latitud": -53.15002819490814,
+                    "Longitud": -70.91143822982174
+                },
+                {
+                    "Institución Padre": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+                    "Gasto": 699958,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                },
+                {
+                    "Institución Padre": "SERVICIO DE VIVIENDA Y URBANIZACION IX REGION",
+                    "Gasto": 1698725,
+                    "Latitud": -0.2575113,
+                    "Longitud": -79.1605787
+                },
+                {
+                    "Institución Padre": "CÁMARA DE DIPUTADOS DE CHILE",
+                    "Gasto": 3645922,
+                    "Latitud": -33.0478095,
+                    "Longitud": -71.60494215739004
+                },
+                {
+                    "Institución Padre": "UNIVERSIDAD DE CHILE",
+                    "Gasto": 5351608,
+                    "Latitud": -33.443867,
+                    "Longitud": -70.6506654
+                },
+                {
+                    "Institución Padre": "POLICIA DE INVESTIGACIONES DE CHILE",
+                    "Gasto": 7997109,
+                    "Latitud": -36.615961850000005,
+                    "Longitud": -72.11605083696296
+                }
+            ],
+            "Top 10 Otros Descendente": [
+                {
+                    "Institución Padre": "POLICIA DE INVESTIGACIONES DE CHILE",
+                    "Gasto": 7997109,
+                    "Latitud": -36.615961850000005,
+                    "Longitud": -72.11605083696296
+                },
+                {
+                    "Institución Padre": "UNIVERSIDAD DE CHILE",
+                    "Gasto": 5351608,
+                    "Latitud": -33.443867,
+                    "Longitud": -70.6506654
+                },
+                {
+                    "Institución Padre": "CÁMARA DE DIPUTADOS DE CHILE",
+                    "Gasto": 3645922,
+                    "Latitud": -33.0478095,
+                    "Longitud": -71.60494215739004
+                },
+                {
+                    "Institución Padre": "SERVICIO DE VIVIENDA Y URBANIZACION IX REGION",
+                    "Gasto": 1698725,
+                    "Latitud": -0.2575113,
+                    "Longitud": -79.1605787
+                },
+                {
+                    "Institución Padre": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+                    "Gasto": 699958,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                },
+                {
+                    "Institución Padre": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
+                    "Gasto": 200812,
+                    "Latitud": -53.15002819490814,
+                    "Longitud": -70.91143822982174
+                }
+            ]
+        },
+        "Abril": {
+            "Top 10 Municipalidades Ascendente": [
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE PUTAENDO",
+                    "Gasto": 69900,
+                    "Latitud": -32.6263021,
+                    "Longitud": -70.7160814
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE ILLAPEL",
+                    "Gasto": 163363,
+                    "Latitud": -31.6333804,
+                    "Longitud": -71.1681965
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LAGO RANCO",
+                    "Gasto": 185640,
+                    "Latitud": -40.32062645,
+                    "Longitud": -72.48012016715423
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE TUCAPEL",
+                    "Gasto": 201634,
+                    "Latitud": -37.24030085,
+                    "Longitud": -71.94019864386175
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CORONEL",
+                    "Gasto": 213563,
+                    "Latitud": -37.0294737,
+                    "Longitud": -73.14622918699935
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE RENGO",
+                    "Gasto": 348551,
+                    "Latitud": -34.40839045,
+                    "Longitud": -70.86363184493334
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE SAN PEDRO DE LA PAZ",
+                    "Gasto": 439348,
+                    "Latitud": -36.84142335,
+                    "Longitud": -73.10317815295062
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE VICUNA",
+                    "Gasto": 529407,
+                    "Latitud": -30.0335973,
+                    "Longitud": -70.7135638
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE PRIMAVERA",
+                    "Gasto": 583624,
+                    "Latitud": -52.7740375,
+                    "Longitud": -69.2873616
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE RIO NEGRO",
+                    "Gasto": 802536,
+                    "Latitud": -40.7959475,
+                    "Longitud": -73.2170768
+                }
+            ],
+            "Top 10 Municipalidades Descendente": [
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE TALCA",
+                    "Gasto": 8779796,
+                    "Latitud": -35.4257615,
+                    "Longitud": -71.66543442233423
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE GRANEROS",
+                    "Gasto": 7728657,
+                    "Latitud": -34.0644816,
+                    "Longitud": -70.72596801489823
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE PADRE LAS CASAS",
+                    "Gasto": 6641128,
+                    "Latitud": -38.77338615,
+                    "Longitud": -72.59711090989668
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CODEGUA",
+                    "Gasto": 4625405,
+                    "Latitud": -34.0389815,
+                    "Longitud": -70.6670417
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LOS LAGOS",
+                    "Gasto": 3530016,
+                    "Latitud": -39.86322795,
+                    "Longitud": -72.81662579578243
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LA REINA",
+                    "Gasto": 3465756,
+                    "Latitud": -33.4532324,
+                    "Longitud": -70.53050761103353
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LEBU",
+                    "Gasto": 3344471,
+                    "Latitud": -37.6109586,
+                    "Longitud": -73.6561279
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LOS ANGELES",
+                    "Gasto": 3315816,
+                    "Latitud": -37.47112635,
+                    "Longitud": -72.35064063866517
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE SAN PABLO",
+                    "Gasto": 2811196,
+                    "Latitud": -33.446576500000006,
+                    "Longitud": -70.74205082203748
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE QUILLECO",
+                    "Gasto": 2632161,
+                    "Latitud": -37.4701516,
+                    "Longitud": -71.9797915
+                }
+            ],
+            "Top 10 Otros Ascendente": [
+                {
+                    "Institución Padre": "SUPERINTENDENCIA DE SERVICIOS SANITARIOS",
+                    "Gasto": 178381,
+                    "Latitud": -33.4413131,
+                    "Longitud": -70.6460621
+                },
+                {
+                    "Institución Padre": "MINISTERIO DE BIENES NACIONALES",
+                    "Gasto": 333219,
+                    "Latitud": -33.4432519,
+                    "Longitud": -70.64647013760111
+                },
+                {
+                    "Institución Padre": "UNIVERSIDAD DE LA FRONTERA",
+                    "Gasto": 561061,
+                    "Latitud": -38.748060499999994,
+                    "Longitud": -72.61829051629903
+                },
+                {
+                    "Institución Padre": "SUBSECRETARIA DE SERVICIOS SOCIALES",
+                    "Gasto": 657475,
+                    "Latitud": -36.826653013935214,
+                    "Longitud": -73.04943759002248
+                },
+                {
+                    "Institución Padre": "HOSPITAL SANTA JUANA",
+                    "Gasto": 745238,
+                    "Latitud": 38.995285,
+                    "Longitud": -1.8664506
+                },
+                {
+                    "Institución Padre": "UNIVERSIDAD DE PLAYA ANCHA DE CIENCIAS DE LA EDUCACION",
+                    "Gasto": 955094,
+                    "Latitud": -33.0300017,
+                    "Longitud": -71.6340727
+                },
+                {
+                    "Institución Padre": "FUERZA AEREA DE CHILE COMANDO LOGISTICO",
+                    "Gasto": 995007,
+                    "Latitud": -33.49138405,
+                    "Longitud": -70.7010048713825
+                },
+                {
+                    "Institución Padre": "UNIVERSIDAD DE CHILE",
+                    "Gasto": 1914710,
+                    "Latitud": -33.443867,
+                    "Longitud": -70.6506654
+                },
+                {
+                    "Institución Padre": "SERVICIO DE SALUD OCCIDENTE HOSPITAL SAN JUAN DE DIOS",
+                    "Gasto": 2520122,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                },
+                {
+                    "Institución Padre": "COMANDO DE APOYO A LA FUERZA",
+                    "Gasto": 2789955,
+                    "Latitud": -39.823700991817084,
+                    "Longitud": -73.23250073125092
+                }
+            ],
+            "Top 10 Otros Descendente": [
+                {
+                    "Institución Padre": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
+                    "Gasto": 43639680,
+                    "Latitud": -53.15002819490814,
+                    "Longitud": -70.91143822982174
+                },
+                {
+                    "Institución Padre": "CORP MUNICIPAL DE SERVICIOS Y DESARROLLO",
+                    "Gasto": 3996248,
+                    "Latitud": -33.50161924507513,
+                    "Longitud": -70.75740660858871
+                },
+                {
+                    "Institución Padre": "FONDO NACIONAL DE SALUD",
+                    "Gasto": 3015270,
+                    "Latitud": -34.9848391,
+                    "Longitud": -71.2385286
+                },
+                {
+                    "Institución Padre": "COMANDO DE APOYO A LA FUERZA",
+                    "Gasto": 2789955,
+                    "Latitud": -39.823700991817084,
+                    "Longitud": -73.23250073125092
+                },
+                {
+                    "Institución Padre": "SERVICIO DE SALUD OCCIDENTE HOSPITAL SAN JUAN DE DIOS",
+                    "Gasto": 2520122,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                },
+                {
+                    "Institución Padre": "UNIVERSIDAD DE CHILE",
+                    "Gasto": 1914710,
+                    "Latitud": -33.443867,
+                    "Longitud": -70.6506654
+                },
+                {
+                    "Institución Padre": "FUERZA AEREA DE CHILE COMANDO LOGISTICO",
+                    "Gasto": 995007,
+                    "Latitud": -33.49138405,
+                    "Longitud": -70.7010048713825
+                },
+                {
+                    "Institución Padre": "UNIVERSIDAD DE PLAYA ANCHA DE CIENCIAS DE LA EDUCACION",
+                    "Gasto": 955094,
+                    "Latitud": -33.0300017,
+                    "Longitud": -71.6340727
+                },
+                {
+                    "Institución Padre": "HOSPITAL SANTA JUANA",
+                    "Gasto": 745238,
+                    "Latitud": 38.995285,
+                    "Longitud": -1.8664506
+                },
+                {
+                    "Institución Padre": "SUBSECRETARIA DE SERVICIOS SOCIALES",
+                    "Gasto": 657475,
+                    "Latitud": -36.826653013935214,
+                    "Longitud": -73.04943759002248
+                }
+            ]
+        },
+        "Mayo": {
+            "Top 10 Municipalidades Ascendente": [
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE MONTEPATRIA",
+                    "Gasto": 40484,
+                    "Latitud": -30.694621308798972,
+                    "Longitud": -70.95756979028313
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE PUREN",
+                    "Gasto": 99798,
+                    "Latitud": -38.0322967,
+                    "Longitud": -73.0730333
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD ESTACION CENTRAL",
+                    "Gasto": 140420,
+                    "Latitud": -33.45433035,
+                    "Longitud": -70.68969016202331
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE SAN MIGUEL",
+                    "Gasto": 206916,
+                    "Latitud": -33.4858114,
+                    "Longitud": -70.6496978914698
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE TIRUA",
+                    "Gasto": 218127,
+                    "Latitud": -38.3442095,
+                    "Longitud": -73.4934201
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE PENCAHUE",
+                    "Gasto": 260967,
+                    "Latitud": -35.3965957,
+                    "Longitud": -71.79943152431821
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CANETE",
+                    "Gasto": 412195,
+                    "Latitud": -37.79972,
+                    "Longitud": -73.3991188
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE PALMILLA",
+                    "Gasto": 453390,
+                    "Latitud": -34.59772815,
+                    "Longitud": -71.36362340411176
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LINARES",
+                    "Gasto": 492362,
+                    "Latitud": -35.5953791,
+                    "Longitud": -71.73159
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE PADRE LAS CASAS",
+                    "Gasto": 656844,
+                    "Latitud": -38.77338615,
+                    "Longitud": -72.59711090989668
+                }
+            ],
+            "Top 10 Municipalidades Descendente": [
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LOS ANGELES",
+                    "Gasto": 18486903,
+                    "Latitud": -37.47112635,
+                    "Longitud": -72.35064063866517
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE PENALOLEN",
+                    "Gasto": 13487460,
+                    "Latitud": -33.4768306,
+                    "Longitud": -70.54176702562827
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE NACIMIENTO",
+                    "Gasto": 7094483,
+                    "Latitud": -37.5021632,
+                    "Longitud": -72.67436659653994
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD VALDIVIA",
+                    "Gasto": 6933148,
+                    "Latitud": -39.812843099999995,
+                    "Longitud": -73.24694851875219
+                },
+                {
+                    "Institución Padre": "MUNICIPALIDAD DE LOS ANDES",
+                    "Gasto": 5317515,
+                    "Latitud": -38.932738549999996,
+                    "Longitud": -72.03295800911474
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE TOME",
+                    "Gasto": 4102632,
+                    "Latitud": -36.617159,
+                    "Longitud": -72.958481
+                },
+                {
+                    "Institución Padre": "ILUSTRE MUNICIPALIDAD DE COLBUN",
+                    "Gasto": 2651653,
+                    "Latitud": -35.6969121,
+                    "Longitud": -71.4017404
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CURACAUTIN",
+                    "Gasto": 2597056,
+                    "Latitud": -38.4380565,
+                    "Longitud": -71.8879024
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LEBU",
+                    "Gasto": 2536723,
+                    "Latitud": -37.6109586,
+                    "Longitud": -73.6561279
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LA CISTERNA",
+                    "Gasto": 2298961,
+                    "Latitud": -33.53472265,
+                    "Longitud": -70.66443006783722
+                }
+            ],
+            "Top 10 Otros Ascendente": [
+                {
+                    "Institución Padre": "UNIVERSIDAD DE VALPARAISO",
+                    "Gasto": 81872,
+                    "Latitud": -33.04391915,
+                    "Longitud": -71.61711731823237
+                },
+                {
+                    "Institución Padre": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
+                    "Gasto": 170884,
+                    "Latitud": -53.15002819490814,
+                    "Longitud": -70.91143822982174
+                },
+                {
+                    "Institución Padre": "UNIVERSIDAD DE TARAPACA",
+                    "Gasto": 215800,
+                    "Latitud": -18.4901565,
+                    "Longitud": -70.2961677979052
+                },
+                {
+                    "Institución Padre": "CORP MUNICIPAL DE SERVICIOS Y DESARROLLO",
+                    "Gasto": 225695,
+                    "Latitud": -33.50161924507513,
+                    "Longitud": -70.75740660858871
+                },
+                {
+                    "Institución Padre": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+                    "Gasto": 281887,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                },
+                {
+                    "Institución Padre": "CORP NACIONAL FORESTAL",
+                    "Gasto": 359975,
+                    "Latitud": -36.82548073816455,
+                    "Longitud": -73.0516213467354
+                },
+                {
+                    "Institución Padre": "DELEGACIÓN PRESIDENCIAL REGIONAL DE LOS LAGOS",
+                    "Gasto": 388416,
+                    "Latitud": -42.4820754,
+                    "Longitud": -73.76553340612708
+                },
+                {
+                    "Institución Padre": "UNIVERSIDAD DE CHILE",
+                    "Gasto": 591906,
+                    "Latitud": -33.443867,
+                    "Longitud": -70.6506654
+                },
+                {
+                    "Institución Padre": "SUPERINTENDENCIA DE SEGURIDAD SOCIAL",
+                    "Gasto": 1069274,
+                    "Latitud": -33.4404619,
+                    "Longitud": -70.6534372
+                },
+                {
+                    "Institución Padre": "COMANDO DE APOYO A LA FUERZA",
+                    "Gasto": 2822561,
+                    "Latitud": -39.823700991817084,
+                    "Longitud": -73.23250073125092
+                }
+            ],
+            "Top 10 Otros Descendente": [
+                {
+                    "Institución Padre": "FUERZA AEREA DE CHILE COMANDO LOGISTICO",
+                    "Gasto": 7226822,
+                    "Latitud": -33.49138405,
+                    "Longitud": -70.7010048713825
+                },
+                {
+                    "Institución Padre": "SUBSECRETARIA DE SALUD PUBLICA",
+                    "Gasto": 6270919,
+                    "Latitud": -33.4364407,
+                    "Longitud": -70.6468014
+                },
+                {
+                    "Institución Padre": "COMANDO DE APOYO A LA FUERZA",
+                    "Gasto": 2822561,
+                    "Latitud": -39.823700991817084,
+                    "Longitud": -73.23250073125092
+                },
+                {
+                    "Institución Padre": "SUPERINTENDENCIA DE SEGURIDAD SOCIAL",
+                    "Gasto": 1069274,
+                    "Latitud": -33.4404619,
+                    "Longitud": -70.6534372
+                },
+                {
+                    "Institución Padre": "UNIVERSIDAD DE CHILE",
+                    "Gasto": 591906,
+                    "Latitud": -33.443867,
+                    "Longitud": -70.6506654
+                },
+                {
+                    "Institución Padre": "DELEGACIÓN PRESIDENCIAL REGIONAL DE LOS LAGOS",
+                    "Gasto": 388416,
+                    "Latitud": -42.4820754,
+                    "Longitud": -73.76553340612708
+                },
+                {
+                    "Institución Padre": "CORP NACIONAL FORESTAL",
+                    "Gasto": 359975,
+                    "Latitud": -36.82548073816455,
+                    "Longitud": -73.0516213467354
+                },
+                {
+                    "Institución Padre": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+                    "Gasto": 281887,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                },
+                {
+                    "Institución Padre": "CORP MUNICIPAL DE SERVICIOS Y DESARROLLO",
+                    "Gasto": 225695,
+                    "Latitud": -33.50161924507513,
+                    "Longitud": -70.75740660858871
+                },
+                {
+                    "Institución Padre": "UNIVERSIDAD DE TARAPACA",
+                    "Gasto": 215800,
+                    "Latitud": -18.4901565,
+                    "Longitud": -70.2961677979052
+                }
+            ]
+        },
+        "Junio": {
+            "Top 10 Municipalidades Ascendente": [
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE PUREN",
+                    "Gasto": 49900,
+                    "Latitud": -38.0322967,
+                    "Longitud": -73.0730333
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD PEDRO AGUIRRE CERDA",
+                    "Gasto": 77350,
+                    "Latitud": -33.4882382,
+                    "Longitud": -70.66398334128455
+                },
+                {
+                    "Institución Padre": "MUNICIPALIDAD DE HUALPEN",
+                    "Gasto": 89540,
+                    "Latitud": -36.79237955,
+                    "Longitud": -73.0995497379248
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE INDEPENDENCIA",
+                    "Gasto": 226457,
+                    "Latitud": -33.4223596,
+                    "Longitud": -70.6550988
+                },
+                {
+                    "Institución Padre": "ILUSTRE MUNICIPALIDAD DE PUTRE",
+                    "Gasto": 240975,
+                    "Latitud": -18.196589699999997,
+                    "Longitud": -69.55992321144892
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CURICO",
+                    "Gasto": 310352,
+                    "Latitud": -34.98554105,
+                    "Longitud": -71.23854218545901
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE MAFIL",
+                    "Gasto": 314160,
+                    "Latitud": -39.6646519,
+                    "Longitud": -72.95367349426073
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE SAN PABLO",
+                    "Gasto": 331356,
+                    "Latitud": -33.446576500000006,
+                    "Longitud": -70.74205082203748
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CONCON",
+                    "Gasto": 355810,
+                    "Latitud": -32.9207636,
+                    "Longitud": -71.5155884
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE SAN PEDRO DE LA PAZ",
+                    "Gasto": 437182,
+                    "Latitud": -36.84142335,
+                    "Longitud": -73.10317815295062
+                }
+            ],
+            "Top 10 Municipalidades Descendente": [
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE TALCA",
+                    "Gasto": 9614236,
+                    "Latitud": -35.4257615,
+                    "Longitud": -71.66543442233423
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD ESTACION CENTRAL",
+                    "Gasto": 8300369,
+                    "Latitud": -33.45433035,
+                    "Longitud": -70.68969016202331
+                },
+                {
+                    "Institución Padre": "ILUSTRE MUNICIPALIDAD DE CHILLAN VIEJO",
+                    "Gasto": 6360122,
+                    "Latitud": -36.62107315,
+                    "Longitud": -72.134018138704
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LOS ANGELES",
+                    "Gasto": 3521091,
+                    "Latitud": -37.47112635,
+                    "Longitud": -72.35064063866517
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CARTAGENA",
+                    "Gasto": 2351980,
+                    "Latitud": -33.5472886,
+                    "Longitud": -71.6038022
+                },
+                {
+                    "Institución Padre": "ILUSTRE MUNICIPALIDAD DE EL CARMEN",
+                    "Gasto": 1660407,
+                    "Latitud": -36.8971258,
+                    "Longitud": -72.0269144
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LONCOCHE",
+                    "Gasto": 1575976,
+                    "Latitud": -39.371356,
+                    "Longitud": -72.6306051
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE TALCAHUANO",
+                    "Gasto": 1501780,
+                    "Latitud": -36.7148019,
+                    "Longitud": -73.114765
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LA CISTERNA",
+                    "Gasto": 1490880,
+                    "Latitud": -33.53472265,
+                    "Longitud": -70.66443006783722
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CORONEL",
+                    "Gasto": 1488595,
+                    "Latitud": -37.0294737,
+                    "Longitud": -73.14622918699935
+                }
+            ],
+            "Top 10 Otros Ascendente": [
+                {
+                    "Institución Padre": "UNIVERSIDAD DE TARAPACA",
+                    "Gasto": 139150,
+                    "Latitud": -18.4901565,
+                    "Longitud": -70.2961677979052
+                },
+                {
+                    "Institución Padre": "HOSPITAL DR GUSTAVO FRICKE DE VINA DEL MAR",
+                    "Gasto": 383692,
+                    "Latitud": -33.02961019999999,
+                    "Longitud": -71.54207970570049
+                },
+                {
+                    "Institución Padre": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
+                    "Gasto": 816959,
+                    "Latitud": -53.15002819490814,
+                    "Longitud": -70.91143822982174
+                },
+                {
+                    "Institución Padre": "FONDO NACIONAL DE SALUD",
+                    "Gasto": 1505350,
+                    "Latitud": -34.9848391,
+                    "Longitud": -71.2385286
+                },
+                {
+                    "Institución Padre": "SERVICIO DE VIVIENDA Y URBANIZACION III REGION",
+                    "Gasto": 2409502,
+                    "Latitud": 10.4162576,
+                    "Longitud": -75.464294
+                },
+                {
+                    "Institución Padre": "CÁMARA DE DIPUTADOS DE CHILE",
+                    "Gasto": 3345090,
+                    "Latitud": -33.0478095,
+                    "Longitud": -71.60494215739004
+                },
+                {
+                    "Institución Padre": "UNIVERSIDAD DE PLAYA ANCHA DE CIENCIAS DE LA EDUCACION",
+                    "Gasto": 3747036,
+                    "Latitud": -33.0300017,
+                    "Longitud": -71.6340727
+                },
+                {
+                    "Institución Padre": "DIRECCION DE ABASTECIMIENTO DE LA ARMADA",
+                    "Gasto": 5072851,
+                    "Latitud": -36.70374234182247,
+                    "Longitud": -73.11290261701197
+                },
+                {
+                    "Institución Padre": "UNIVERSIDAD DE CHILE",
+                    "Gasto": 30230996,
+                    "Latitud": -33.443867,
+                    "Longitud": -70.6506654
+                }
+            ],
+            "Top 10 Otros Descendente": [
+                {
+                    "Institución Padre": "UNIVERSIDAD DE CHILE",
+                    "Gasto": 30230996,
+                    "Latitud": -33.443867,
+                    "Longitud": -70.6506654
+                },
+                {
+                    "Institución Padre": "DIRECCION DE ABASTECIMIENTO DE LA ARMADA",
+                    "Gasto": 5072851,
+                    "Latitud": -36.70374234182247,
+                    "Longitud": -73.11290261701197
+                },
+                {
+                    "Institución Padre": "UNIVERSIDAD DE PLAYA ANCHA DE CIENCIAS DE LA EDUCACION",
+                    "Gasto": 3747036,
+                    "Latitud": -33.0300017,
+                    "Longitud": -71.6340727
+                },
+                {
+                    "Institución Padre": "CÁMARA DE DIPUTADOS DE CHILE",
+                    "Gasto": 3345090,
+                    "Latitud": -33.0478095,
+                    "Longitud": -71.60494215739004
+                },
+                {
+                    "Institución Padre": "SERVICIO DE VIVIENDA Y URBANIZACION III REGION",
+                    "Gasto": 2409502,
+                    "Latitud": 10.4162576,
+                    "Longitud": -75.464294
+                },
+                {
+                    "Institución Padre": "FONDO NACIONAL DE SALUD",
+                    "Gasto": 1505350,
+                    "Latitud": -34.9848391,
+                    "Longitud": -71.2385286
+                },
+                {
+                    "Institución Padre": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
+                    "Gasto": 816959,
+                    "Latitud": -53.15002819490814,
+                    "Longitud": -70.91143822982174
+                },
+                {
+                    "Institución Padre": "HOSPITAL DR GUSTAVO FRICKE DE VINA DEL MAR",
+                    "Gasto": 383692,
+                    "Latitud": -33.02961019999999,
+                    "Longitud": -71.54207970570049
+                },
+                {
+                    "Institución Padre": "UNIVERSIDAD DE TARAPACA",
+                    "Gasto": 139150,
+                    "Latitud": -18.4901565,
+                    "Longitud": -70.2961677979052
+                }
+            ]
+        },
+        "Julio": {
+            "Top 10 Municipalidades Ascendente": [
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE NUNOA",
+                    "Gasto": 37842,
+                    "Latitud": -33.45414025,
+                    "Longitud": -70.59362964688049
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LA CISTERNA",
+                    "Gasto": 46162,
+                    "Latitud": -33.53472265,
+                    "Longitud": -70.66443006783722
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE QUILLECO",
+                    "Gasto": 87739,
+                    "Latitud": -37.4701516,
+                    "Longitud": -71.9797915
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD PEDRO AGUIRRE CERDA",
+                    "Gasto": 88165,
+                    "Latitud": -33.4882382,
+                    "Longitud": -70.66398334128455
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE PUREN",
+                    "Gasto": 95308,
+                    "Latitud": -38.0322967,
+                    "Longitud": -73.0730333
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CHILLAN",
+                    "Gasto": 155938,
+                    "Latitud": -36.60600385,
+                    "Longitud": -72.10426068496827
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD VALDIVIA",
+                    "Gasto": 230146,
+                    "Latitud": -39.812843099999995,
+                    "Longitud": -73.24694851875219
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE TIRUA",
+                    "Gasto": 370040,
+                    "Latitud": -38.3442095,
+                    "Longitud": -73.4934201
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE SANTA JUANA",
+                    "Gasto": 432779,
+                    "Latitud": -37.1744663,
+                    "Longitud": -72.9367769
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE TOME",
+                    "Gasto": 569712,
+                    "Latitud": -36.617159,
+                    "Longitud": -72.958481
+                }
+            ],
+            "Top 10 Municipalidades Descendente": [
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE TEMUCO",
+                    "Gasto": 11377031,
+                    "Latitud": -38.7397933,
+                    "Longitud": -72.5909289
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LOS ANGELES",
+                    "Gasto": 8166756,
+                    "Latitud": -37.47112635,
+                    "Longitud": -72.35064063866517
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE PROVIDENCIA",
+                    "Gasto": 4404785,
+                    "Latitud": -33.4322118,
+                    "Longitud": -70.609894
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE MOSTAZAL",
+                    "Gasto": 3728270,
+                    "Latitud": -33.98006625,
+                    "Longitud": -70.71155859430769
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CURACAVI",
+                    "Gasto": 2741420,
+                    "Latitud": -33.4048881,
+                    "Longitud": -71.13658795656167
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LINARES",
+                    "Gasto": 2403681,
+                    "Latitud": -35.5953791,
+                    "Longitud": -71.73159
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CURICO",
+                    "Gasto": 2167704,
+                    "Latitud": -34.98554105,
+                    "Longitud": -71.23854218545901
+                },
+                {
+                    "Institución Padre": "ILUSTRE MUNICIPALIDAD DE QUINTA NORMAL",
+                    "Gasto": 2163836,
+                    "Latitud": -33.4220771,
+                    "Longitud": -70.6938233
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CATEMU",
+                    "Gasto": 1943520,
+                    "Latitud": -32.7787138,
+                    "Longitud": -70.9630788
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE YUMBEL",
+                    "Gasto": 1897931,
+                    "Latitud": -37.0978413,
+                    "Longitud": -72.561378
+                }
+            ],
+            "Top 10 Otros Ascendente": [
+                {
+                    "Institución Padre": "UNIVERSIDAD DE TARAPACA",
+                    "Gasto": 199600,
+                    "Latitud": -18.4901565,
+                    "Longitud": -70.2961677979052
+                },
+                {
+                    "Institución Padre": "SERVICIO AGRICOLA Y GANADERO",
+                    "Gasto": 265000,
+                    "Latitud": -53.2949297,
+                    "Longitud": -70.36942178205214
+                },
+                {
+                    "Institución Padre": "DIRECCION SALUD RURAL",
+                    "Gasto": 755055,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                },
+                {
+                    "Institución Padre": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+                    "Gasto": 1249500,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                },
+                {
+                    "Institución Padre": "SERVICIO SALUD OCCIDENTE HOSPITAL DR FELIX BULNES CERDA",
+                    "Gasto": 1473220,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                },
+                {
+                    "Institución Padre": "JUNTA NACIONAL DE JARDINES         INFANTILES",
+                    "Gasto": 1867978,
+                    "Latitud": -33.4405481,
+                    "Longitud": -70.6539241
+                },
+                {
+                    "Institución Padre": "UNIVERSIDAD DE LA FRONTERA",
+                    "Gasto": 1938510,
+                    "Latitud": -38.748060499999994,
+                    "Longitud": -72.61829051629903
+                },
+                {
+                    "Institución Padre": "HOSPITAL VILLARRICA",
+                    "Gasto": 1945793,
+                    "Latitud": -39.29529025,
+                    "Longitud": -72.21179948274484
+                },
+                {
+                    "Institución Padre": "SERVICIO DE SALUD METROPOLITANA NORTE HOSPITAL SAN JOSE",
+                    "Gasto": 1976447,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                },
+                {
+                    "Institución Padre": "SERVICIO DE VIVIENDA Y URBANIZACION IV REGION",
+                    "Gasto": 2420460,
+                    "Latitud": -32.43876020204081,
+                    "Longitud": -60.81183902448979
+                }
+            ],
+            "Top 10 Otros Descendente": [
+                {
+                    "Institución Padre": "UNIVERSIDAD DE CHILE",
+                    "Gasto": 62918546,
+                    "Latitud": -33.443867,
+                    "Longitud": -70.6506654
+                },
+                {
+                    "Institución Padre": "SERVICIO ELECTORAL",
+                    "Gasto": 30531784,
+                    "Latitud": -35.4263146,
+                    "Longitud": -71.66314927659991
+                },
+                {
+                    "Institución Padre": "FUERZA AEREA DE CHILE COMANDO LOGISTICO",
+                    "Gasto": 13508066,
+                    "Latitud": -33.49138405,
+                    "Longitud": -70.7010048713825
+                },
+                {
+                    "Institución Padre": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
+                    "Gasto": 5817101,
+                    "Latitud": -53.15002819490814,
+                    "Longitud": -70.91143822982174
+                },
+                {
+                    "Institución Padre": "UNIVERSIDAD DE MAGALLANES",
+                    "Gasto": 3424463,
+                    "Latitud": -53.13621475,
+                    "Longitud": -70.87874391238793
+                },
+                {
+                    "Institución Padre": "CENTRO REFERENCIAL DE SALUD DR SALVADOR ALLENDE GOSSENS",
+                    "Gasto": 2827083,
+                    "Latitud": -33.44534655,
+                    "Longitud": -70.74119011102081
+                },
+                {
+                    "Institución Padre": "SERVICIO DE VIVIENDA Y URBANIZACION IV REGION",
+                    "Gasto": 2420460,
+                    "Latitud": -32.43876020204081,
+                    "Longitud": -60.81183902448979
+                },
+                {
+                    "Institución Padre": "SERVICIO DE SALUD METROPOLITANA NORTE HOSPITAL SAN JOSE",
+                    "Gasto": 1976447,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                },
+                {
+                    "Institución Padre": "HOSPITAL VILLARRICA",
+                    "Gasto": 1945793,
+                    "Latitud": -39.29529025,
+                    "Longitud": -72.21179948274484
+                },
+                {
+                    "Institución Padre": "UNIVERSIDAD DE LA FRONTERA",
+                    "Gasto": 1938510,
+                    "Latitud": -38.748060499999994,
+                    "Longitud": -72.61829051629903
+                }
+            ]
+        },
+        "Agosto": {
+            "Top 10 Municipalidades Ascendente": [
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE VALPARAISO",
+                    "Gasto": 73899,
+                    "Latitud": -33.051604749999996,
+                    "Longitud": -71.60283796993087
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE PANGUIPULLI",
+                    "Gasto": 108956,
+                    "Latitud": -39.641611,
+                    "Longitud": -72.3323027
+                },
+                {
+                    "Institución Padre": "ILUSTRE MUNICIPALIDAD DE QUIRIHUE",
+                    "Gasto": 117200,
+                    "Latitud": -36.282706399999995,
+                    "Longitud": -72.5396935462742
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD PEDRO AGUIRRE CERDA",
+                    "Gasto": 151781,
+                    "Latitud": -33.4882382,
+                    "Longitud": -70.66398334128455
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE OSORNO",
+                    "Gasto": 196826,
+                    "Latitud": -40.5746591,
+                    "Longitud": -73.1358139
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE QUINTA DE TILCOCO",
+                    "Gasto": 217294,
+                    "Latitud": -34.3545415,
+                    "Longitud": -70.9646122
+                },
+                {
+                    "Institución Padre": "MUNICIPALIDAD DE CHOLCHOL",
+                    "Gasto": 224850,
+                    "Latitud": -38.6024312,
+                    "Longitud": -72.848833
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE SANTA MARIA",
+                    "Gasto": 264775,
+                    "Latitud": -32.7483334,
+                    "Longitud": -70.6573003
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE NINHUE",
+                    "Gasto": 268845,
+                    "Latitud": -36.3926895,
+                    "Longitud": -72.39926491627112
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE HUALQUI",
+                    "Gasto": 293287,
+                    "Latitud": -36.97530075,
+                    "Longitud": -72.93833724820985
+                }
+            ],
+            "Top 10 Municipalidades Descendente": [
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE TEMUCO",
+                    "Gasto": 13173931,
+                    "Latitud": -38.7397933,
+                    "Longitud": -72.5909289
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE TALCA",
+                    "Gasto": 9591376,
+                    "Latitud": -35.4257615,
+                    "Longitud": -71.66543442233423
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LA COMUNA DE EL BOSQUE",
+                    "Gasto": 9549555,
+                    "Latitud": -33.5566265,
+                    "Longitud": -70.66570109640884
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LOS ANGELES",
+                    "Gasto": 7846217,
+                    "Latitud": -37.47112635,
+                    "Longitud": -72.35064063866517
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE VICUNA",
+                    "Gasto": 5117655,
+                    "Latitud": -30.0335973,
+                    "Longitud": -70.7135638
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CHIMBARONGO",
+                    "Gasto": 4691456,
+                    "Latitud": -34.70841905,
+                    "Longitud": -71.04118138529478
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LOS LAGOS",
+                    "Gasto": 4090744,
+                    "Latitud": -39.86322795,
+                    "Longitud": -72.81662579578243
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LA UNION",
+                    "Gasto": 4062993,
+                    "Latitud": -40.2947882,
+                    "Longitud": -73.0829831009254
+                },
+                {
+                    "Institución Padre": "MUNICIPALIDAD DE LOS ANDES",
+                    "Gasto": 3504740,
+                    "Latitud": -38.932738549999996,
+                    "Longitud": -72.03295800911474
+                },
+                {
+                    "Institución Padre": "MUNICIPALIDAD DE HUECHURABA",
+                    "Gasto": 3298740,
+                    "Latitud": -33.36016185,
+                    "Longitud": -70.68678089682511
+                }
+            ],
+            "Top 10 Otros Ascendente": [
+                {
+                    "Institución Padre": "SUBSECRETARIA DE SALUD PUBLICA",
+                    "Gasto": 78659,
+                    "Latitud": -33.4364407,
+                    "Longitud": -70.6468014
+                },
+                {
+                    "Institución Padre": "UNIVERSIDAD DE TALCA",
+                    "Gasto": 89857,
+                    "Latitud": -35.405594050000005,
+                    "Longitud": -71.63474176574374
+                },
+                {
+                    "Institución Padre": "UNIVERSIDAD DE TARAPACA",
+                    "Gasto": 179300,
+                    "Latitud": -18.4901565,
+                    "Longitud": -70.2961677979052
+                },
+                {
+                    "Institución Padre": "SERVICIO NACIONAL DE CAPACITACION Y EMPLEO",
+                    "Gasto": 190602,
+                    "Latitud": -33.4398105,
+                    "Longitud": -70.6550812
+                },
+                {
+                    "Institución Padre": "DELEGACIÓN PRESIDENCIAL REGIONAL DE LOS LAGOS",
+                    "Gasto": 218984,
+                    "Latitud": -42.4820754,
+                    "Longitud": -73.76553340612708
+                },
+                {
+                    "Institución Padre": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+                    "Gasto": 482912,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                },
+                {
+                    "Institución Padre": "DIRECCION GENERAL DE GENDARMERIA DE CHIL",
+                    "Gasto": 628500,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                },
+                {
+                    "Institución Padre": "SERVICIO ELECTORAL",
+                    "Gasto": 695848,
+                    "Latitud": -35.4263146,
+                    "Longitud": -71.66314927659991
+                },
+                {
+                    "Institución Padre": "DIRECCION DE ABASTECIMIENTO DE LA ARMADA",
+                    "Gasto": 708913,
+                    "Latitud": -36.70374234182247,
+                    "Longitud": -73.11290261701197
+                },
+                {
+                    "Institución Padre": "SERVICIO DE SALUD SUR HOSPITAL EXEQUIEL",
+                    "Gasto": 813484,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                }
+            ],
+            "Top 10 Otros Descendente": [
+                {
+                    "Institución Padre": "COMANDO DE APOYO A LA FUERZA",
+                    "Gasto": 10896178,
+                    "Latitud": -39.823700991817084,
+                    "Longitud": -73.23250073125092
+                },
+                {
+                    "Institución Padre": "UNIVERSIDAD DE CHILE",
+                    "Gasto": 7947058,
+                    "Latitud": -33.443867,
+                    "Longitud": -70.6506654
+                },
+                {
+                    "Institución Padre": "CORP MUNICIPAL DE SERVICIOS Y DESARROLLO",
+                    "Gasto": 5562870,
+                    "Latitud": -33.50161924507513,
+                    "Longitud": -70.75740660858871
+                },
+                {
+                    "Institución Padre": "HOSPITAL COMPLEJO ASISTENCIAL PADRE LAS CASAS",
+                    "Gasto": 5122950,
+                    "Latitud": -38.76739775,
+                    "Longitud": -72.61636680788058
+                },
+                {
+                    "Institución Padre": "SERVICIO DE SALUD ANTOFAGASTA HOSP C CIS",
+                    "Gasto": 4686220,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                },
+                {
+                    "Institución Padre": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
+                    "Gasto": 4247038,
+                    "Latitud": -53.15002819490814,
+                    "Longitud": -70.91143822982174
+                },
+                {
+                    "Institución Padre": "SERVICIO DE SALUD VINA DEL MAR QUILLOTA",
+                    "Gasto": 3653716,
+                    "Latitud": -33.04779205,
+                    "Longitud": -71.35903278381922
+                },
+                {
+                    "Institución Padre": "SERVICIO LOCAL DE EDUCACION PÚBLICA DE ATACAMA",
+                    "Gasto": 3652181,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                },
+                {
+                    "Institución Padre": "MINISTERIO PUBLICO",
+                    "Gasto": 3268335,
+                    "Latitud": 14.63783445,
+                    "Longitud": -90.51331443051151
+                },
+                {
+                    "Institución Padre": "CÁMARA DE DIPUTADOS DE CHILE",
+                    "Gasto": 3131961,
+                    "Latitud": -33.0478095,
+                    "Longitud": -71.60494215739004
+                }
+            ]
+        },
+        "Septiembre": {
+            "Top 10 Municipalidades Ascendente": [
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE HIJUELAS",
+                    "Gasto": 140301,
+                    "Latitud": -32.801099050000005,
+                    "Longitud": -71.14444190643727
+                },
+                {
+                    "Institución Padre": "ILUSTRE MUNICIPALIDAD DE TOLTEN",
+                    "Gasto": 166600,
+                    "Latitud": -39.1789741,
+                    "Longitud": -73.1655554
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CALERA DE TANGO",
+                    "Gasto": 170560,
+                    "Latitud": -33.6306199,
+                    "Longitud": -70.76159311969573
+                },
+                {
+                    "Institución Padre": "ILUSTRE MUNICIPALIDAD DE COLBUN",
+                    "Gasto": 204632,
+                    "Latitud": -35.6969121,
+                    "Longitud": -71.4017404
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LONCOCHE",
+                    "Gasto": 378301,
+                    "Latitud": -39.371356,
+                    "Longitud": -72.6306051
+                },
+                {
+                    "Institución Padre": "ILUSTRE MUNICIPALIDAD DE CABO DE HORNOS",
+                    "Gasto": 388000,
+                    "Latitud": -54.934946350000004,
+                    "Longitud": -67.60371568606402
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE MEJILLONES",
+                    "Gasto": 430505,
+                    "Latitud": -23.10059675,
+                    "Longitud": -70.45249002490712
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE COLTAUCO",
+                    "Gasto": 579720,
+                    "Latitud": -34.2878709,
+                    "Longitud": -71.0835889
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE SANTA CRUZ",
+                    "Gasto": 654500,
+                    "Latitud": -34.6396483,
+                    "Longitud": -71.3658759
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CATEMU",
+                    "Gasto": 664434,
+                    "Latitud": -32.7787138,
+                    "Longitud": -70.9630788
+                }
+            ],
+            "Top 10 Municipalidades Descendente": [
+                {
+                    "Institución Padre": "MUNICIPALIDAD DE OVALLE",
+                    "Gasto": 69500000,
+                    "Latitud": -30.6034109,
+                    "Longitud": -71.20396847907544
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD SAN JOAQUIN",
+                    "Gasto": 16945600,
+                    "Latitud": -33.4791679,
+                    "Longitud": -70.64129747160456
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE TALCAHUANO",
+                    "Gasto": 15496043,
+                    "Latitud": -36.7148019,
+                    "Longitud": -73.114765
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LA COMUNA DE EL BOSQUE",
+                    "Gasto": 7083709,
+                    "Latitud": -33.5566265,
+                    "Longitud": -70.66570109640884
+                },
+                {
+                    "Institución Padre": "ILUSTRE MUNICIPALIDAD DE QUIRIHUE",
+                    "Gasto": 6928900,
+                    "Latitud": -36.282706399999995,
+                    "Longitud": -72.5396935462742
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE SAN NICOLAS",
+                    "Gasto": 6839822,
+                    "Latitud": -36.5031992,
+                    "Longitud": -72.2132577
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LOS ANGELES",
+                    "Gasto": 6400000,
+                    "Latitud": -37.47112635,
+                    "Longitud": -72.35064063866517
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LOS LAGOS",
+                    "Gasto": 5179594,
+                    "Latitud": -39.86322795,
+                    "Longitud": -72.81662579578243
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LA UNION",
+                    "Gasto": 5175983,
+                    "Latitud": -40.2947882,
+                    "Longitud": -73.0829831009254
+                },
+                {
+                    "Institución Padre": "MUNICIPALIDAD DE LOS ANDES",
+                    "Gasto": 4901967,
+                    "Latitud": -38.932738549999996,
+                    "Longitud": -72.03295800911474
+                }
+            ],
+            "Top 10 Otros Ascendente": [
+                {
+                    "Institución Padre": "SERVICIO NACIONAL DE GEOLOGIA Y MINERIA",
+                    "Gasto": 163744,
+                    "Latitud": -33.434923600000005,
+                    "Longitud": -70.6327965690962
+                },
+                {
+                    "Institución Padre": "UNIVERSIDAD DE TALCA",
+                    "Gasto": 211344,
+                    "Latitud": -35.405594050000005,
+                    "Longitud": -71.63474176574374
+                },
+                {
+                    "Institución Padre": "SERVICIO SALUD DEL RELONCAVI",
+                    "Gasto": 235025,
+                    "Latitud": -41.4692075,
+                    "Longitud": -72.9295494
+                },
+                {
+                    "Institución Padre": "CONTRALORIA GENERAL DE LA REPUBLICA",
+                    "Gasto": 371042,
+                    "Latitud": -33.44312995,
+                    "Longitud": -70.65488283461741
+                },
+                {
+                    "Institución Padre": "SERVICIO NACIONAL DE SALUD HOSPITAL DE RIO NEGRO",
+                    "Gasto": 702100,
+                    "Latitud": -34.17135857324988,
+                    "Longitud": -70.64791447102725
+                },
+                {
+                    "Institución Padre": "SERVICIO DE SALUD METROPOLITANA NORTE HOSPITAL SAN JOSE",
+                    "Gasto": 911421,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                },
+                {
+                    "Institución Padre": "COMANDO DE APOYO A LA FUERZA",
+                    "Gasto": 952000,
+                    "Latitud": -39.823700991817084,
+                    "Longitud": -73.23250073125092
+                },
+                {
+                    "Institución Padre": "SERVICIO DE SALUD SUR HOSPITAL EXEQUIEL",
+                    "Gasto": 1046248,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                },
+                {
+                    "Institución Padre": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+                    "Gasto": 1104018,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                },
+                {
+                    "Institución Padre": "BIBLIOTECA DEL CONGRESO NACIONAL",
+                    "Gasto": 1499043,
+                    "Latitud": -33.4385638,
+                    "Longitud": -70.653325
+                }
+            ],
+            "Top 10 Otros Descendente": [
+                {
+                    "Institución Padre": "SERVICIO DE REGISTRO CIVIL E IDENTIFICACION",
+                    "Gasto": 51313752,
+                    "Latitud": -33.438788,
+                    "Longitud": -70.66147054127686
+                },
+                {
+                    "Institución Padre": "HOSPITAL COMPLEJO ASISTENCIAL PADRE LAS CASAS",
+                    "Gasto": 22910024,
+                    "Latitud": -38.76739775,
+                    "Longitud": -72.61636680788058
+                },
+                {
+                    "Institución Padre": "UNIVERSIDAD DE CHILE",
+                    "Gasto": 15365911,
+                    "Latitud": -33.443867,
+                    "Longitud": -70.6506654
+                },
+                {
+                    "Institución Padre": "SERVICIO DE SALUD COQUIMBO HOSPITAL LA SERENA",
+                    "Gasto": 10401593,
+                    "Latitud": -27.48322,
+                    "Longitud": -58.8244122
+                },
+                {
+                    "Institución Padre": "DIRECCION DE ABASTECIMIENTO DE LA ARMADA",
+                    "Gasto": 8388786,
+                    "Latitud": -36.70374234182247,
+                    "Longitud": -73.11290261701197
+                },
+                {
+                    "Institución Padre": "CORP MUNICIPAL DE SERVICIOS Y DESARROLLO",
+                    "Gasto": 7506365,
+                    "Latitud": -33.50161924507513,
+                    "Longitud": -70.75740660858871
+                },
+                {
+                    "Institución Padre": "DIRECCION GENERAL DE GENDARMERIA DE CHIL",
+                    "Gasto": 6119147,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                },
+                {
+                    "Institución Padre": "SERVICIO DE SALUD DEL LIBERTADOR B O'HIGGINS HOSPITAL REG RANCAGUA",
+                    "Gasto": 5675015,
+                    "Latitud": -23.6283043,
+                    "Longitud": -70.3879018
+                },
+                {
+                    "Institución Padre": "CORPORACIÓN DE ASISTENCIA JUDICIAL RM",
+                    "Gasto": 3753837,
+                    "Latitud": -33.49307465,
+                    "Longitud": -70.60432208538705
+                },
+                {
+                    "Institución Padre": "MINISTERIO PUBLICO",
+                    "Gasto": 3528231,
+                    "Latitud": 14.63783445,
+                    "Longitud": -90.51331443051151
+                }
+            ]
+        },
+        "Octubre": {
+            "Top 10 Municipalidades Ascendente": [
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CONCON",
+                    "Gasto": 40460,
+                    "Latitud": -32.9207636,
+                    "Longitud": -71.5155884
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LA UNION",
+                    "Gasto": 57477,
+                    "Latitud": -40.2947882,
+                    "Longitud": -73.0829831009254
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE BULNES",
+                    "Gasto": 57560,
+                    "Latitud": -36.7433463,
+                    "Longitud": -72.2984666
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE VITACURA",
+                    "Gasto": 95200,
+                    "Latitud": -33.3988411,
+                    "Longitud": -70.6013636
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE PALENA",
+                    "Gasto": 107695,
+                    "Latitud": -43.6172995,
+                    "Longitud": -71.8042914
+                },
+                {
+                    "Institución Padre": "MUNICIPALIDAD DE HUALPEN",
+                    "Gasto": 127247,
+                    "Latitud": -36.79237955,
+                    "Longitud": -73.0995497379248
+                },
+                {
+                    "Institución Padre": "MUNICIPALIDAD DE GORBEA",
+                    "Gasto": 165862,
+                    "Latitud": -39.1023675,
+                    "Longitud": -72.6754981
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE PARRAL",
+                    "Gasto": 189791,
+                    "Latitud": -36.1421057,
+                    "Longitud": -71.8228643
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE QUINTA DE TILCOCO",
+                    "Gasto": 210280,
+                    "Latitud": -34.3545415,
+                    "Longitud": -70.9646122
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE LIMACHE",
+                    "Gasto": 218424,
+                    "Latitud": -33.00074945,
+                    "Longitud": -71.26900073305762
+                }
+            ],
+            "Top 10 Municipalidades Descendente": [
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE VALPARAISO",
+                    "Gasto": 25000000,
+                    "Latitud": -33.051604749999996,
+                    "Longitud": -71.60283796993087
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE PENALOLEN",
+                    "Gasto": 13054300,
+                    "Latitud": -33.4768306,
+                    "Longitud": -70.54176702562827
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE CALAMA",
+                    "Gasto": 13044780,
+                    "Latitud": -22.4634382,
+                    "Longitud": -68.92573347389403
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE TEMUCO",
+                    "Gasto": 12298694,
+                    "Latitud": -38.7397933,
+                    "Longitud": -72.5909289
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD VALDIVIA",
+                    "Gasto": 10987080,
+                    "Latitud": -39.812843099999995,
+                    "Longitud": -73.24694851875219
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE COLINA",
+                    "Gasto": 10945652,
+                    "Latitud": -33.20507605,
+                    "Longitud": -70.68392978874765
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD LO BARNECHEA",
+                    "Gasto": 7299936,
+                    "Latitud": -33.35347625,
+                    "Longitud": -70.51996705555844
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE SAN NICOLAS",
+                    "Gasto": 5617098,
+                    "Latitud": -36.5031992,
+                    "Longitud": -72.2132577
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE PROVIDENCIA",
+                    "Gasto": 5567772,
+                    "Latitud": -33.4322118,
+                    "Longitud": -70.609894
+                },
+                {
+                    "Institución Padre": "I MUNICIPALIDAD DE TALCA",
+                    "Gasto": 5169562,
+                    "Latitud": -35.4257615,
+                    "Longitud": -71.66543442233423
+                }
+            ],
+            "Top 10 Otros Ascendente": [
+                {
+                    "Institución Padre": "SUBSECRETARIA DEL MEDIO AMBIENTE",
+                    "Gasto": 25246,
+                    "Latitud": -34.21514109795102,
+                    "Longitud": -71.30413833484958
+                },
+                {
+                    "Institución Padre": "UNIVERSIDAD DE TARAPACA",
+                    "Gasto": 50575,
+                    "Latitud": -18.4901565,
+                    "Longitud": -70.2961677979052
+                },
+                {
+                    "Institución Padre": "AGENCIA DE PROMOCION DE LA INVERSION EXTRANJERA",
+                    "Gasto": 157080,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                },
+                {
+                    "Institución Padre": "FUERZA AEREA DE CHILE COMANDO LOGISTICO",
+                    "Gasto": 184997,
+                    "Latitud": -33.49138405,
+                    "Longitud": -70.7010048713825
+                },
+                {
+                    "Institución Padre": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+                    "Gasto": 556352,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                },
+                {
+                    "Institución Padre": "SERVICIO SALUD ARAUCANIA SUR HOSPIT DR EDUARDO GONZALEZ GALENO CUNCO",
+                    "Gasto": 725474,
+                    "Latitud": -38.9308932,
+                    "Longitud": -72.03759384425837
+                },
+                {
+                    "Institución Padre": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
+                    "Gasto": 1179623,
+                    "Latitud": -53.15002819490814,
+                    "Longitud": -70.91143822982174
+                },
+                {
+                    "Institución Padre": "SUBSECRETARIA DEL MINISTERIO DE EDUCACION PUBLICA",
+                    "Gasto": 1360706,
+                    "Latitud": -33.5080040827115,
+                    "Longitud": -70.67684777414608
+                },
+                {
+                    "Institución Padre": "DIRECCION GENERAL DE GENDARMERIA DE CHIL",
+                    "Gasto": 1482380,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                },
+                {
+                    "Institución Padre": "SERVICIO DE SALUD SUR HOSPITAL EXEQUIEL",
+                    "Gasto": 1768935,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                }
+            ],
+            "Top 10 Otros Descendente": [
+                {
+                    "Institución Padre": "DIRECCION DE LOGISTICA DE CARABINEROS",
+                    "Gasto": 6898150,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                },
+                {
+                    "Institución Padre": "COMANDO DE APOYO A LA FUERZA",
+                    "Gasto": 6000000,
+                    "Latitud": -39.823700991817084,
+                    "Longitud": -73.23250073125092
+                },
+                {
+                    "Institución Padre": "SERVICIO DE VIVIENDA Y URBANIZACION III REGION",
+                    "Gasto": 5064521,
+                    "Latitud": 10.4162576,
+                    "Longitud": -75.464294
+                },
+                {
+                    "Institución Padre": "MINISTERIO PUBLICO",
+                    "Gasto": 4203080,
+                    "Latitud": 14.63783445,
+                    "Longitud": -90.51331443051151
+                },
+                {
+                    "Institución Padre": "CORP MUNICIPAL DE SERVICIOS Y DESARROLLO",
+                    "Gasto": 3870818,
+                    "Latitud": -33.50161924507513,
+                    "Longitud": -70.75740660858871
+                },
+                {
+                    "Institución Padre": "UNIVERSIDAD DE LA SERENA",
+                    "Gasto": 2788944,
+                    "Latitud": -30.004276806906066,
+                    "Longitud": -70.8170684820114
+                },
+                {
+                    "Institución Padre": "FONDO NACIONAL DE SALUD",
+                    "Gasto": 2749233,
+                    "Latitud": -34.9848391,
+                    "Longitud": -71.2385286
+                },
+                {
+                    "Institución Padre": "SERVICIO DE REGISTRO CIVIL E IDENTIFICACION",
+                    "Gasto": 2662530,
+                    "Latitud": -33.438788,
+                    "Longitud": -70.66147054127686
+                },
+                {
+                    "Institución Padre": "SERVICIO DE SALUD OCCIDENTE HOSPITAL SAN JUAN DE DIOS",
+                    "Gasto": 2189480,
+                    "Latitud": 0.0,
+                    "Longitud": 0.0
+                },
+                {
+                    "Institución Padre": "INSTITUTO PSIQUIATRICO DR JOSE HORWITZ BARAK",
+                    "Gasto": 2154186,
+                    "Latitud": -33.422949149999994,
+                    "Longitud": -70.64958161886723
+                }
+            ]
+        }
+    }
+}
